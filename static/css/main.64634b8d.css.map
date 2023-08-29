@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.64634b8d.css","mappings":"AAAA,SAEE,UAAY,CACZ,gBAAiB,CAEjB,WAAY,CADZ,iBAAkB,CAHlB,UAKF","sources":["App.css"],"sourcesContent":[".heading{\n  width: 100%;\n  color: white;\n  font-size: 1.8rem;\n  text-align: center;\n  padding: 5px;\n}\n\n"],"names":[],"sourceRoot":""}
